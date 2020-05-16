@@ -34,13 +34,3 @@ qui sera testée sur Raspberry Zero (développé sur un 3B).
 ### Give support, donate whatever you want !
 
 ------------------------------------------------
-### TO DO
-  - progressbar True/False option
-  - SenseHat (Weather,...)
-  - Google Agenda
-  - Trello
-  - Google tasks
-  - Weather
-  - AirParif
-  - SNCF/RATP
-  * MPMM wiki update
