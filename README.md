@@ -16,22 +16,25 @@ qui sera testée sur Raspberry Zero (développé sur un 3B).
 
 ------------------------------------------------
 
-# QUIT MPMM
+#### QUIT MPMM
   - with <Escape> keyboard button
   
-# CONFIGURATION : Main (MPMM_config.py)
+### CONFIGURATION : Main (MPMM_config.py)
   - Use of sensehat True/False
   
-# CONFIGURATION : Sensehat (MPMM_sensehat.py)
+### CONFIGURATION : Sensehat (MPMM_sensehat.py)
   - interval (display/blank)
   
-# CONFIGURATION : Module words (MPMM_module_words.py)
+### CONFIGURATION : Module words (MPMM_module_words.py)
 
 ------------------------------------------------
-# WHAT WILL DISPLAY ?
+## WHAT WILL DISPLAY ?
   - Sensehat -> random a LED picture
 -------------------------------------
-TO DO
+### Give support, donate whatever you want !
+
+------------------------------------------------
+### TO DO
   - progressbar True/False option
   - SenseHat (Weather,...)
   - Google Agenda
@@ -40,3 +43,4 @@ TO DO
   - Weather
   - AirParif
   - SNCF/RATP
+  * MPMM wiki update
