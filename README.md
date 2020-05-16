@@ -1,4 +1,4 @@
-# MyPiMagicMirror
+# MyPiMagicMirror [MPMM}
 Magic Mirror in python for Raspberry Pi
 
 [EN]
@@ -14,6 +14,22 @@ j'ai été surpris de la charge CPU/RAM pour un simple affichage de page web.
 Le but ici est de proposer une version Raspberry en python,
 qui sera testée sur Raspberry Zero (développé sur un 3B).
 
+------------------------------------------------
+
+# QUIT MPMM
+  - with <Escape> keyboard button
+  
+# CONFIGURATION : Main (MPMM_config.py)
+  - Use of sensehat True/False
+  
+# CONFIGURATION : Sensehat (MPMM_sensehat.py)
+  - interval (display/blank)
+  
+# CONFIGURATION : Module words (MPMM_module_words.py)
+
+------------------------------------------------
+# WHAT WILL DISPLAY ?
+  - Sensehat -> random a LED picture
 -------------------------------------
 TO DO
   - SenseHat (Weather,...)
