@@ -1,4 +1,4 @@
-# MyPiMagicMirror [MPMM}
+# MyPiMagicMirror [MPMM]
 Magic Mirror in python for Raspberry Pi
 
 [EN]
@@ -31,6 +31,6 @@ qui sera testée sur Raspberry Zero (développé sur un 3B).
 ## WHAT WILL DISPLAY ?
   - Sensehat -> random a LED picture
 -------------------------------------
-### Give support, donate whatever you want !
-
+### Give support, donate whatever you want ( a coffee break, a chocolat viennois !)
+[[paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](anonymousmail@wanadoo.fr)
 ------------------------------------------------
