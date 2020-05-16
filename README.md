@@ -32,6 +32,7 @@ qui sera testée sur Raspberry Zero (développé sur un 3B).
   - Sensehat -> random a LED picture
 -------------------------------------
 TO DO
+  - progressbar True/False option
   - SenseHat (Weather,...)
   - Google Agenda
   - Trello
