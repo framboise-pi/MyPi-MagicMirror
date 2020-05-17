@@ -17,7 +17,7 @@ qui sera testée sur Raspberry Zero (développé sur un 3B).
 ------------------------------------------------
 
 #### HOW TO QUIT MPMM
-  - with <Escape> keyboard button
+  - with Escape keyboard button
   
 ### FILES - all are needed
   - MPMM_config.py -=- main configuration file
