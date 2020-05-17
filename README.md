@@ -19,7 +19,7 @@ qui sera testée sur Raspberry Zero (développé sur un 3B).
 #### HOW TO QUIT MPMM
   - with <Escape> keyboard button
   
-### FILES
+### FILES - all are needed
   - MPMM_config.py -=- main configuration file
   - MPMM_sensehat.py -=- module for sensehat, with some configuration inside
   - MPMM_module_words.py -=- module for random words
