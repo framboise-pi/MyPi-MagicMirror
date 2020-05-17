@@ -16,21 +16,31 @@ qui sera testée sur Raspberry Zero (développé sur un 3B).
 
 ------------------------------------------------
 
-#### QUIT MPMM
+#### HOW TO QUIT MPMM
   - with <Escape> keyboard button
   
-### CONFIGURATION : Main (MPMM_config.py)
-  - Use of sensehat True/False
-  
-### CONFIGURATION : Sensehat (MPMM_sensehat.py)
-  - interval (display/blank)
-  
-### CONFIGURATION : Module words (MPMM_module_words.py)
+### FILES
+  - MPMM_config.py
+  - MPMM_sensehat.py
+  - MPMM_module_words.py
 
 ------------------------------------------------
 ## WHAT WILL DISPLAY ?
-  - Sensehat -> random a LED picture
+  - On your Sensehat
+      - random 
+        - LED picture from python file
+        - temperature in a message, background color corresponding to a temperature scale (from blue to red)
+  - On your Magic Mirror
+    - clock with date, inspired from Magic Mirror 2
+    - from sensehat : temperature and pression
+    - center of the Mirror :
+      - modules
+        - Moon - pictures to show current phase of the moon ( I made pictures I won't release for free, but will modify with free licenses pictures for you on github)
+        - Words - random words from a python file to make a sentence. Inspired from Compliments/Magic Mirror 2
+  
+  - [update] picture of MPMM working with Sensehat -
 -------------------------------------
-### Give support, donate whatever you want ( a coffee break, a chocolat viennois !)
+### Give support ! ( a chocolat viennois break | help me get sensors and Raspberry hardware)
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E79JA29LBLTAE&source=url)
 ------------------------------------------------
+> I'm currently coding MPMM (May 2020); installation help etc. will be added later on
