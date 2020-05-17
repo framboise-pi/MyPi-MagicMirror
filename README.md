@@ -10,8 +10,8 @@ by using python we should get to the point.
 [FR]
 Le Magic Mirror est une idée géniale,
 mais à la première installation sur un Raspberry Zero,
-j'ai été surpris de la charge CPU/RAM pour un simple affichage de page web.
-Le but ici est de proposer une version Raspberry en python,
+j'ai été surpris de la charge CPU/RAM avec NPM, la node et navigateur web.
+Le but ici est de proposer une version Raspberry en python uniquement,
 qui sera testée sur Raspberry Zero (développé sur un 3B).
 
 ------------------------------------------------
