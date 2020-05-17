@@ -32,13 +32,16 @@ qui sera testée sur Raspberry Zero (développé sur un 3B).
         - LED picture from python file
         - temperature in a message, background color corresponding to a temperature scale (from blue to red)
   - On your Magic Mirror
-    - clock with date, inspired from Magic Mirror 2
-    - from sensehat : temperature and pression
+    - top of the Mirror :
+      - clock with date, inspired from Magic Mirror 2
+      - from sensehat : temperature and pression
     - center of the Mirror :
       - modules
         - Moon - pictures to show current phase of the moon ( I made pictures I won't release for free, but will modify with free licenses pictures for you on github)
+    - footer of the Mirror :
         - Words - random words from a python file to make a sentence. Inspired from Compliments/Magic Mirror 2
-  
+
+    
   - [update] picture of MPMM working with Sensehat -
 -------------------------------------
 ### Give support ! ( a chocolat viennois break | help me get sensors and Raspberry hardware)
