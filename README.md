@@ -40,7 +40,10 @@ qui sera testée sur Raspberry Zero (développé sur un 3B).
         - Moon - pictures to show current phase of the moon ( I made pictures I won't release for free, but will modify with free licenses pictures for you on github)
     - footer of the Mirror :
         - Words - random words from a python file to make a sentence. Inspired from Compliments/Magic Mirror 2
-
+-------------------------------------
+- This version don't need/use internet connection.
+- This version don't use a php/navigator/server, it works with Tkinter
+Only python involved
     
   - [update] picture of MPMM working with Sensehat -
 -------------------------------------
