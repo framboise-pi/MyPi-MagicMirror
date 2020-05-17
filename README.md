@@ -20,9 +20,10 @@ qui sera testée sur Raspberry Zero (développé sur un 3B).
   - with <Escape> keyboard button
   
 ### FILES
-  - MPMM_config.py
-  - MPMM_sensehat.py
-  - MPMM_module_words.py
+  - MPMM_config.py -=- main configuration file
+  - MPMM_sensehat.py -=- module for sensehat, with some configuration inside
+  - MPMM_module_words.py -=- module for random words
+  - MyPiMagicMirror.py -=- main file
 
 ------------------------------------------------
 ## WHAT WILL DISPLAY ?
