@@ -47,7 +47,6 @@ Only python involved
     
   - [update] picture of MPMM working with Sensehat -
 -------------------------------------
-### Give support ! ( a chocolat viennois break | help me get sensors and Raspberry hardware)
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E79JA29LBLTAE&source=url)
+
 ------------------------------------------------
 > I'm currently coding MPMM (May 2020); installation help etc. will be added later on
